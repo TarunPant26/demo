@@ -1,14 +1,9 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+	 [
+    {
+        "superobservationID": "LCA-GpTCFDkHgEdj6KisRHuIw",
+        "superobservationDateTime": "2020-03-06T15:38:01.0147046+00:00",
+        "t": "cTX",
+        "n": "cN0",
+        "m": "cM0"
+    }
+]
